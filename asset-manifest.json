@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react_app_prueba/static/css/main.073c9b0a.css",
-    "main.js": "/react_app_prueba/static/js/main.dda97a4c.js",
+    "main.css": "/react_app_prueba/static/css/main.e2bb6eee.css",
+    "main.js": "/react_app_prueba/static/js/main.efdde81a.js",
     "static/js/787.75991b54.chunk.js": "/react_app_prueba/static/js/787.75991b54.chunk.js",
-    "static/media/logo.svg": "/react_app_prueba/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/monitorFosforo.png": "/react_app_prueba/static/media/monitorFosforo.5e30e9d2e57a0cd8450f.png",
     "index.html": "/react_app_prueba/index.html",
-    "main.073c9b0a.css.map": "/react_app_prueba/static/css/main.073c9b0a.css.map",
-    "main.dda97a4c.js.map": "/react_app_prueba/static/js/main.dda97a4c.js.map",
+    "main.e2bb6eee.css.map": "/react_app_prueba/static/css/main.e2bb6eee.css.map",
+    "main.efdde81a.js.map": "/react_app_prueba/static/js/main.efdde81a.js.map",
     "787.75991b54.chunk.js.map": "/react_app_prueba/static/js/787.75991b54.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.dda97a4c.js"
+    "static/css/main.e2bb6eee.css",
+    "static/js/main.efdde81a.js"
   ]
 }
